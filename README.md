@@ -1,4 +1,4 @@
 # dapp-stores
 list favorite dAPP stores
 
-[ GitHub Pages ](https://www.fn-share.com/github_bridge?path=index.html)
+[跳至 GitHub Pages 主页了解详情](https://www.fn-share.com/github_bridge?path=index.html)
